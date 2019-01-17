@@ -1,4 +1,4 @@
-# wechat-h5-boilerplate
+# **wechat-h5-boilerplate**
 
 > 「让制作H5像制作PPT一样简单！」
 
