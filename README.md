@@ -1,6 +1,6 @@
 ![效果图][1]
 
-例如让一段文字动起来只需要一行代码：
+
 
     <p class="animated" data-ani-name="slideInRight" data-ani-duration="1s" data-ani-delay="0.3s">I'm a coder!</p>
 
